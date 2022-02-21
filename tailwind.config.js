@@ -1,12 +1,7 @@
-const tailwindcss = require("tailwindcss");
-
 module.exports = {
-  content: ["*"],
+  content: ['*'],
   theme: {
     extend: {},
   },
-  plugins: [
-    tailwindcss,
-    autoprefixer,
-  ],
+  plugins: [],
 }
