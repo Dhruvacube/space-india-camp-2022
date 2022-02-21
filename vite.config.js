@@ -10,6 +10,8 @@ module.exports = defineConfig({
         competitions: resolve(__dirname, 'competitions.html'),
         activities: resolve(__dirname, 'activities.html'),
         contactus: resolve(__dirname, 'contactus.html'),
+        workshops: resolve(__dirname, 'workshops.html'),
+        sponsers: resolve(__dirname, 'sponsers.html'),
       }
     }
   }
