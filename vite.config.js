@@ -9,6 +9,7 @@ module.exports = defineConfig({
         guests: resolve(__dirname, 'guests.html'),
         competitions: resolve(__dirname, 'competitions.html'),
         activities: resolve(__dirname, 'activities.html'),
+        contactus: resolve(__dirname, 'contactus.html'),
       }
     }
   }
